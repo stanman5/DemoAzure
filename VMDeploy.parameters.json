@@ -1,21 +1,21 @@
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
-    "contentVersion": "1.0.0.0",
+    "contentVersion": "1.0.3.0",
     "parameters": {
         "adminUsername": {
             "value": "Stany"
         },
         "adminPassword": {
-            "value": "smithers"
+            "value": "Thestanman@1968"
         },
         "dnsLabelPrefix": {
-            "value": "demo"
+            "value": "csb-dn"
         },
         "windowsOSVersion": {
             "value": "2016-Datacenter"
         },
         "location": {
-            "value": "[DevOpsDemo1().West Europe]"
+            "value": "West Europe"
         }
     }
 }
