@@ -1,6 +1,6 @@
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
-    "contentVersion": "2.0.4.2",
+    "contentVersion": "2.4.4.2",
     "parameters": {
         "adminUsername": {
             "value": "Stany"
