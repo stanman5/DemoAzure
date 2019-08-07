@@ -1,6 +1,6 @@
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
-    "contentVersion": "24.5.13.7",
+    "contentVersion": "24.5.15.7",
     "parameters": {
         "adminUsername": {
             "value": "Stany"
@@ -9,7 +9,7 @@
             "value": "Thestanman@1968"
         },
         "dnsLabelPrefix": {
-            "value": "dns5555"
+            "value": "dns2355"
         },
         "windowsOSVersion": {
             "value": "2016-Datacenter"
